@@ -1,0 +1,9 @@
+.idea
+__pycache__
+*.SC2Replay
+.env
+.__pycache__
+*.pyc
+nohup.out
+*.code-workspace
+test.py
